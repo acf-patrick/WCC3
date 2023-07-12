@@ -1,3 +1,5 @@
+// https://app.codesignal.com/challenge/mFiRxB3fvQoqhucBQ
+
 int solution(string str) {
     int n = str.length();
     int maxLength = 0, i = 0, j = 0;
